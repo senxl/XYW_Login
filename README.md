@@ -3,7 +3,7 @@
 
 如果你的校园网登录界面是下面这个样子
 
-![](https://cdn.jsdelivr.net/gh/senxl/XYW_Login/image/loginMain.png)
+![](/image/loginMain.png)
 
 那么你可以尝试使用本脚本。
 
