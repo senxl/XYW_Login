@@ -11,8 +11,9 @@ _user_data = {
 
 
 def login(user):
-    link = 'http://10.100.1.34/eportal/InterFace.do?method=login'
-    link_out = 'http://10.100.1.34/eportal/InterFace.do?method=logout'
+    base = 'http://10.100.1.34'
+    link = base + '/eportal/InterFace.do?method=login'
+    link_out = base + '/eportal/InterFace.do?method=logout'
 
     out_data = {
 
